@@ -1,4 +1,4 @@
-# Senti — AI-Powered IoT Wearable for Stress & Sleep Management
+# AI-Powered IoT Wearable for Stress & Sleep Management
 
 > A low-cost, five-sensor wearable that classifies **seven physiological states in real time on-device** using TinyML, paired with a live web dashboard and an agentic-AI wellness companion.
 
