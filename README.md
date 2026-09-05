@@ -118,7 +118,12 @@ Three-tier pipeline:
 
 ---
 
+<img width="853" height="566" alt="image" src="https://github.com/user-attachments/assets/aa8a753c-081c-4e1a-af37-dacb4acafbc5" />
+
+
 ## Hardware
+
+<img width="502" height="549" alt="image" src="https://github.com/user-attachments/assets/4e0d60db-3e2d-4bac-ba91-d4eb659fef1e" />
 
 ### Sensor Integration
 
@@ -282,6 +287,13 @@ ECG plays a secondary role in raw-window classification: a 1,000 ms window is to
 ## Senti Web Application
 
 A dependency-free single-page HTML5 / CSS3 / vanilla-JavaScript app that turns raw classifications into actionable wellness intelligence.
+
+<img width="355" height="349" alt="image" src="https://github.com/user-attachments/assets/6cb704a5-5b5b-418d-932d-eeccce2ec7cb" />
+
+<img width="482" height="383" alt="image" src="https://github.com/user-attachments/assets/ad131986-d2a2-4556-8cbb-85a6406e1812" />
+
+<img width="1531" height="1027" alt="image" src="https://github.com/user-attachments/assets/e5b0c592-592a-407f-a871-af0be0a74b90" />
+
 
 | Feature | Description |
 |---|---|
