@@ -2,6 +2,9 @@
 
 > A low-cost, five-sensor wearable that classifies **seven physiological states in real time on-device** using TinyML, paired with a live web dashboard and an agentic-AI wellness companion.
 
+> <img width="355" height="349" alt="image" src="https://github.com/user-attachments/assets/6cb704a5-5b5b-418d-932d-eeccce2ec7cb" />
+
+
 <p align="center">
   <img alt="Platform" src="https://img.shields.io/badge/platform-Arduino%20UNO%20Q-00979D">
   <img alt="TinyML" src="https://img.shields.io/badge/TinyML-Edge%20Impulse%20INT8-3B4CCA">
@@ -288,7 +291,6 @@ ECG plays a secondary role in raw-window classification: a 1,000 ms window is to
 
 A dependency-free single-page HTML5 / CSS3 / vanilla-JavaScript app that turns raw classifications into actionable wellness intelligence.
 
-<img width="355" height="349" alt="image" src="https://github.com/user-attachments/assets/6cb704a5-5b5b-418d-932d-eeccce2ec7cb" />
 
 <img width="482" height="383" alt="image" src="https://github.com/user-attachments/assets/ad131986-d2a2-4556-8cbb-85a6406e1812" />
 
